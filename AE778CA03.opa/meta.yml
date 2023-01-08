@@ -1,0 +1,22 @@
+id: AE778CA03
+title: The Falling Elixir of Blessing
+type: translation
+pechas:
+- IDD2D93DB
+- IA8E5CA69
+- I0220F965
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:11:37.642572
+  last_modified_at: 2023-01-04 12:11:37.642585
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IDD2D93DB/1014: 144A
+  IA8E5CA69/0D9D: 144A
+  I0220F965/42B8: 144A
